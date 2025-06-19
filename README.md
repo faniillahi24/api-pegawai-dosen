@@ -24,3 +24,17 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## 📦 Database
+
+File database SQL tersedia di: database/pegawai_dosen.sql
+
+
+### Cara Import:
+
+1. Buka `http://localhost/phpmyadmin`
+2. Buat database baru dengan nama `pegawai_dosen`
+3. Klik **Import** → pilih file `pegawai_dosen.sql`
+4. Klik **Go**
+
